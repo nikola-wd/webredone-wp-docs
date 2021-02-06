@@ -6,12 +6,12 @@
   "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
   "source": "@site/docs\\mdx.md",
   "slug": "/mdx",
-  "permalink": "/docs/mdx",
+  "permalink": "/webredone-wp-docs/docs/mdx",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Tabs",
-    "permalink": "/docs/doc4"
+    "permalink": "/webredone-wp-docs/docs/doc4"
   }
 }

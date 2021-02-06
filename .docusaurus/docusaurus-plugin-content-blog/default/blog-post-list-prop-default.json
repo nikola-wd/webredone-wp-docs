@@ -3,15 +3,15 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "permalink": "/webredone-wp-docs/blog/welcome"
     },
     {
       "title": "Hello",
-      "permalink": "/blog/hello-world"
+      "permalink": "/webredone-wp-docs/blog/hello-world"
     },
     {
       "title": "Hola",
-      "permalink": "/blog/hola"
+      "permalink": "/webredone-wp-docs/blog/hola"
     }
   ]
 }

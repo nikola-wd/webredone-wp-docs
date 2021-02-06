@@ -1,13 +1,13 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "title": "WRWPS DOCS",
+  "tagline": "WRWPS WordPress Starter docs",
+  "url": "https://nikola-wd.github.io",
+  "baseUrl": "/webredone-wp-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "nikola-wd",
+  "projectName": "webredone-wp-docs",
   "themeConfig": {
     "navbar": {
       "title": "My Site",
@@ -99,7 +99,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\nikol\\Desktop\\webredone_wp_projects_docs\\webredone_wordpress_starter_docs\\sidebars.js",
+          "sidebarPath": "C:\\Users\\nikol\\Desktop\\init_docs_site\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -107,7 +107,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "C:\\Users\\nikol\\Desktop\\webredone_wp_projects_docs\\webredone_wordpress_starter_docs\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\nikol\\Desktop\\init_docs_site\\src\\css\\custom.css"
         }
       }
     ]

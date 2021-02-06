@@ -1,38 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/webredone-wp-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/webredone-wp-docs/docs",
           "mainDocId": "doc1",
           "docs": [
             {
               "id": "doc1",
-              "path": "/docs/",
+              "path": "/webredone-wp-docs/docs/",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc2",
-              "path": "/docs/doc2",
+              "path": "/webredone-wp-docs/docs/doc2",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc3",
-              "path": "/docs/doc3",
+              "path": "/webredone-wp-docs/docs/doc3",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc4",
-              "path": "/docs/doc4",
+              "path": "/webredone-wp-docs/docs/doc4",
               "sidebar": "someSidebar"
             },
             {
               "id": "mdx",
-              "path": "/docs/mdx",
+              "path": "/webredone-wp-docs/docs/mdx",
               "sidebar": "someSidebar"
             }
           ]

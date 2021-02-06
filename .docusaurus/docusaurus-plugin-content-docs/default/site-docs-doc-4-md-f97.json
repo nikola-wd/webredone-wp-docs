@@ -6,16 +6,16 @@
   "description": "HTML",
   "source": "@site/docs\\doc4.md",
   "slug": "/doc4",
-  "permalink": "/docs/doc4",
+  "permalink": "/webredone-wp-docs/docs/doc4",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
     "title": "This is Document Number 3",
-    "permalink": "/docs/doc3"
+    "permalink": "/webredone-wp-docs/docs/doc3"
   },
   "next": {
     "title": "Powered by MDX",
-    "permalink": "/docs/mdx"
+    "permalink": "/webredone-wp-docs/docs/mdx"
   }
 }
