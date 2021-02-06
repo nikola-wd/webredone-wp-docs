@@ -33,7 +33,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "doc4"
+                    "id": "tabs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "scroll-to-section"
                   }
                 ]
               },
@@ -54,8 +58,9 @@
             "/webredone-wp-docs/docs/": "someSidebar",
             "/webredone-wp-docs/docs/doc2": "someSidebar",
             "/webredone-wp-docs/docs/doc3": "someSidebar",
-            "/webredone-wp-docs/docs/doc4": "someSidebar",
-            "/webredone-wp-docs/docs/mdx": "someSidebar"
+            "/webredone-wp-docs/docs/mdx": "someSidebar",
+            "/webredone-wp-docs/docs/scroll-to-section": "someSidebar",
+            "/webredone-wp-docs/docs/tabs": "someSidebar"
           },
           "docs": [
             {
@@ -115,28 +120,7 @@
               },
               "next": {
                 "title": "Tabs",
-                "permalink": "/webredone-wp-docs/docs/doc4"
-              }
-            },
-            {
-              "unversionedId": "doc4",
-              "id": "doc4",
-              "isDocsHomePage": false,
-              "title": "Tabs",
-              "description": "HTML",
-              "source": "@site/docs\\doc4.md",
-              "slug": "/doc4",
-              "permalink": "/webredone-wp-docs/docs/doc4",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
-              "version": "current",
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "This is Document Number 3",
-                "permalink": "/webredone-wp-docs/docs/doc3"
-              },
-              "next": {
-                "title": "Powered by MDX",
-                "permalink": "/webredone-wp-docs/docs/mdx"
+                "permalink": "/webredone-wp-docs/docs/tabs"
               }
             },
             {
@@ -152,8 +136,50 @@
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
+                "title": "Scroll to section",
+                "permalink": "/webredone-wp-docs/docs/scroll-to-section"
+              }
+            },
+            {
+              "unversionedId": "scroll-to-section",
+              "id": "scroll-to-section",
+              "isDocsHomePage": false,
+              "title": "Scroll to section",
+              "description": "HTML",
+              "source": "@site/docs\\scroll-to-section.md",
+              "slug": "/scroll-to-section",
+              "permalink": "/webredone-wp-docs/docs/scroll-to-section",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/scroll-to-section.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
                 "title": "Tabs",
-                "permalink": "/webredone-wp-docs/docs/doc4"
+                "permalink": "/webredone-wp-docs/docs/tabs"
+              },
+              "next": {
+                "title": "Powered by MDX",
+                "permalink": "/webredone-wp-docs/docs/mdx"
+              }
+            },
+            {
+              "unversionedId": "tabs",
+              "id": "tabs",
+              "isDocsHomePage": false,
+              "title": "Tabs",
+              "description": "HTML",
+              "source": "@site/docs\\tabs.md",
+              "slug": "/tabs",
+              "permalink": "/webredone-wp-docs/docs/tabs",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tabs.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "This is Document Number 3",
+                "permalink": "/webredone-wp-docs/docs/doc3"
+              },
+              "next": {
+                "title": "Scroll to section",
+                "permalink": "/webredone-wp-docs/docs/scroll-to-section"
               }
             }
           ]

@@ -28,7 +28,12 @@
           {
             "type": "link",
             "label": "Tabs",
-            "href": "/webredone-wp-docs/docs/doc4"
+            "href": "/webredone-wp-docs/docs/tabs"
+          },
+          {
+            "type": "link",
+            "label": "Scroll to section",
+            "href": "/webredone-wp-docs/docs/scroll-to-section"
           }
         ]
       },
@@ -50,7 +55,8 @@
     "/webredone-wp-docs/docs/": "someSidebar",
     "/webredone-wp-docs/docs/doc2": "someSidebar",
     "/webredone-wp-docs/docs/doc3": "someSidebar",
-    "/webredone-wp-docs/docs/doc4": "someSidebar",
-    "/webredone-wp-docs/docs/mdx": "someSidebar"
+    "/webredone-wp-docs/docs/mdx": "someSidebar",
+    "/webredone-wp-docs/docs/scroll-to-section": "someSidebar",
+    "/webredone-wp-docs/docs/tabs": "someSidebar"
   }
 }

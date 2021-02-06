@@ -26,13 +26,18 @@
               "sidebar": "someSidebar"
             },
             {
-              "id": "doc4",
-              "path": "/webredone-wp-docs/docs/doc4",
+              "id": "mdx",
+              "path": "/webredone-wp-docs/docs/mdx",
               "sidebar": "someSidebar"
             },
             {
-              "id": "mdx",
-              "path": "/webredone-wp-docs/docs/mdx",
+              "id": "scroll-to-section",
+              "path": "/webredone-wp-docs/docs/scroll-to-section",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "tabs",
+              "path": "/webredone-wp-docs/docs/tabs",
               "sidebar": "someSidebar"
             }
           ]
