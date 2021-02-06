@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc4",
+  "id": "doc4",
+  "isDocsHomePage": false,
+  "title": "Tabs",
+  "description": "HTML",
+  "source": "@site/docs\\doc4.md",
+  "slug": "/doc4",
+  "permalink": "/docs/doc4",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "This is Document Number 3",
+    "permalink": "/docs/doc3"
+  },
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}
