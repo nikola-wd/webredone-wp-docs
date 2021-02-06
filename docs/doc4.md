@@ -10,10 +10,10 @@ title: Tabs
   <!-- Tabs ctrls -->
   <div class="nav-tab nav">
     <button type="button" class="tab-anchor activeTab" data-href="panel-0">
-      Linear Economy
+      [TAB 1 TOGGLE LABEL]
     </button>
     <button type="button" class="tab-anchor " data-href="panel-1">
-      Circular Economy
+      [TAB 2 TOGGLE LABEL]
     </button>
   </div>
   <!-- nav-tab -->
@@ -22,14 +22,14 @@ title: Tabs
   <div class="nav-tab nav dropdown">
     <span class="dropdown-close"></span>
     <button type="button" class="dropdown-toggle">
-      Enterprise Analytics
+      [TAB 1 TOGGLE LABEL]
     </button>
     <div class="dropdown-menu">
       <button type="button" class="tab-anchor dropdown-item activeTab" data-href="panel-0">
-        Linear Economy
+         [TAB 1 TOGGLE LABEL]
       </button>
       <button type="button" class="tab-anchor dropdown-item " data-href="panel-1">
-        Circular Economy
+        [TAB 2 TOGGLE LABEL]
       </button>
     </div>{* dd-menu *}
   </div>{* dropdown *}

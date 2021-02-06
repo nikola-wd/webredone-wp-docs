@@ -1,0 +1,56 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/webredone-wp-docs/docs/"
+          },
+          {
+            "type": "link",
+            "label": "Document Number 2",
+            "href": "/webredone-wp-docs/docs/doc2"
+          },
+          {
+            "type": "link",
+            "label": "This is Document Number 3",
+            "href": "/webredone-wp-docs/docs/doc3"
+          },
+          {
+            "type": "link",
+            "label": "Tabs",
+            "href": "/webredone-wp-docs/docs/doc4"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/webredone-wp-docs/docs/mdx"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/webredone-wp-docs/docs/": "someSidebar",
+    "/webredone-wp-docs/docs/doc2": "someSidebar",
+    "/webredone-wp-docs/docs/doc3": "someSidebar",
+    "/webredone-wp-docs/docs/doc4": "someSidebar",
+    "/webredone-wp-docs/docs/mdx": "someSidebar"
+  }
+}

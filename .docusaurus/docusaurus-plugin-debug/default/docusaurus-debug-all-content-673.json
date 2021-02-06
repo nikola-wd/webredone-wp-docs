@@ -1,0 +1,328 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/webredone-wp-docs/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\nikol\\Desktop\\init_docs_site\\sidebars.js",
+          "docsDirPath": "C:\\Users\\nikol\\Desktop\\init_docs_site\\docs",
+          "docsDirPathLocalized": "C:\\Users\\nikol\\Desktop\\init_docs_site\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "doc1",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Docusaurus",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "doc1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc4"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Features",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "mdx"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/webredone-wp-docs/docs/": "someSidebar",
+            "/webredone-wp-docs/docs/doc2": "someSidebar",
+            "/webredone-wp-docs/docs/doc3": "someSidebar",
+            "/webredone-wp-docs/docs/doc4": "someSidebar",
+            "/webredone-wp-docs/docs/mdx": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "doc1",
+              "id": "doc1",
+              "isDocsHomePage": false,
+              "title": "Style Guide",
+              "description": "You can write content using GitHub-flavored Markdown syntax.",
+              "source": "@site/docs\\doc1.md",
+              "slug": "/",
+              "permalink": "/webredone-wp-docs/docs/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+              "version": "current",
+              "sidebar_label": "Style Guide",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Document Number 2",
+                "permalink": "/webredone-wp-docs/docs/doc2"
+              }
+            },
+            {
+              "unversionedId": "doc2",
+              "id": "doc2",
+              "isDocsHomePage": false,
+              "title": "Document Number 2",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs\\doc2.md",
+              "slug": "/doc2",
+              "permalink": "/webredone-wp-docs/docs/doc2",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Style Guide",
+                "permalink": "/webredone-wp-docs/docs/"
+              },
+              "next": {
+                "title": "This is Document Number 3",
+                "permalink": "/webredone-wp-docs/docs/doc3"
+              }
+            },
+            {
+              "unversionedId": "doc3",
+              "id": "doc3",
+              "isDocsHomePage": false,
+              "title": "This is Document Number 3",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "source": "@site/docs\\doc3.md",
+              "slug": "/doc3",
+              "permalink": "/webredone-wp-docs/docs/doc3",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc3.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Document Number 2",
+                "permalink": "/webredone-wp-docs/docs/doc2"
+              },
+              "next": {
+                "title": "Tabs",
+                "permalink": "/webredone-wp-docs/docs/doc4"
+              }
+            },
+            {
+              "unversionedId": "doc4",
+              "id": "doc4",
+              "isDocsHomePage": false,
+              "title": "Tabs",
+              "description": "HTML",
+              "source": "@site/docs\\doc4.md",
+              "slug": "/doc4",
+              "permalink": "/webredone-wp-docs/docs/doc4",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "This is Document Number 3",
+                "permalink": "/webredone-wp-docs/docs/doc3"
+              },
+              "next": {
+                "title": "Powered by MDX",
+                "permalink": "/webredone-wp-docs/docs/mdx"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs\\mdx.md",
+              "slug": "/mdx",
+              "permalink": "/webredone-wp-docs/docs/mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Tabs",
+                "permalink": "/webredone-wp-docs/docs/doc4"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/webredone-wp-docs/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog\\2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/webredone-wp-docs/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/webredone-wp-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/webredone-wp-docs/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/webredone-wp-docs/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/webredone-wp-docs/blog/hello-world",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog\\2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/webredone-wp-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/webredone-wp-docs/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/webredone-wp-docs/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/webredone-wp-docs/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/webredone-wp-docs/blog/hola",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog\\2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/webredone-wp-docs/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/webredone-wp-docs/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/webredone-wp-docs/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/webredone-wp-docs/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/webredone-wp-docs/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/webredone-wp-docs/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/webredone-wp-docs/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/webredone-wp-docs/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/webredone-wp-docs/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/webredone-wp-docs/",
+        "source": "@site/src\\pages\\index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

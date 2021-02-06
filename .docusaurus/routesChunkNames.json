@@ -1,0 +1,137 @@
+{
+  "/webredone-wp-docs/-77f": {
+    "component": "component---site-src-pages-index-jsece-a18",
+    "config": "config---webredone-wp-docs-5-e-9-ebb"
+  },
+  "/webredone-wp-docs/__docusaurus/debug-eb8": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/config-339": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/content-9fc": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---webredone-wp-docs-docusaurus-debug-content-4-c-9-9e5"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/globalData-e32": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/metadata-10a": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/registry-0bb": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/webredone-wp-docs/__docusaurus/debug/routes-2cb": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/webredone-wp-docs/blog-343": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "items": [
+      {
+        "content": "content---webredone-wp-docs-blog-99-c-7b6"
+      },
+      {
+        "content": "content---webredone-wp-docs-blogc-0-a-a3b"
+      },
+      {
+        "content": "content---webredone-wp-docs-blog-273-6dd"
+      }
+    ],
+    "metadata": "metadata---webredone-wp-docs-blog-995-fd2"
+  },
+  "/webredone-wp-docs/blog/hello-world-9e5": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "content": "content---webredone-wp-docs-blog-hello-world-843-392"
+  },
+  "/webredone-wp-docs/blog/hola-934": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "content": "content---webredone-wp-docs-blog-holaaed-0f4"
+  },
+  "/webredone-wp-docs/blog/tags-97e": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "tags": "tags---webredone-wp-docs-blog-tags-169-f05"
+  },
+  "/webredone-wp-docs/blog/tags/docusaurus-52d": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "items": [
+      {
+        "content": "content---webredone-wp-docs-blog-99-c-7b6"
+      },
+      {
+        "content": "content---webredone-wp-docs-blogc-0-a-a3b"
+      },
+      {
+        "content": "content---webredone-wp-docs-blog-273-6dd"
+      }
+    ],
+    "metadata": "metadata---webredone-wp-docs-blog-tags-docusaurusadb-ebc"
+  },
+  "/webredone-wp-docs/blog/tags/facebook-164": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "items": [
+      {
+        "content": "content---webredone-wp-docs-blog-99-c-7b6"
+      }
+    ],
+    "metadata": "metadata---webredone-wp-docs-blog-tags-facebook-585-246"
+  },
+  "/webredone-wp-docs/blog/tags/hello-761": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "items": [
+      {
+        "content": "content---webredone-wp-docs-blog-99-c-7b6"
+      },
+      {
+        "content": "content---webredone-wp-docs-blogc-0-a-a3b"
+      }
+    ],
+    "metadata": "metadata---webredone-wp-docs-blog-tags-hello-50-e-a55"
+  },
+  "/webredone-wp-docs/blog/tags/hola-69a": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "items": [
+      {
+        "content": "content---webredone-wp-docs-blog-273-6dd"
+      }
+    ],
+    "metadata": "metadata---webredone-wp-docs-blog-tags-holac-9-e-24d"
+  },
+  "/webredone-wp-docs/blog/welcome-4e0": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
+    "content": "content---webredone-wp-docs-blog-welcomea-9-a-12f"
+  },
+  "/webredone-wp-docs/docs-f6b": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---webredone-wp-docs-docsf-97-5aa"
+  },
+  "/webredone-wp-docs/docs/-0d9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-736-46c"
+  },
+  "/webredone-wp-docs/docs/doc2-ad6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-doc-2991-cd5"
+  },
+  "/webredone-wp-docs/docs/doc3-784": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-doc-3225-dc7"
+  },
+  "/webredone-wp-docs/docs/doc4-2b2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-doc-4-f-97-b09"
+  },
+  "/webredone-wp-docs/docs/mdx-e1a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-mdx-45-a-9b8"
+  }
+}
