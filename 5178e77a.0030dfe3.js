@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{78:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/webredone-wp-docs/blog/welcome"},{"title":"Hello","permalink":"/webredone-wp-docs/blog/hello-world"},{"title":"Hola","permalink":"/webredone-wp-docs/blog/hola"}]}')}}]);

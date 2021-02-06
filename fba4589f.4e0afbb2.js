@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{97:function(o){o.exports=JSON.parse('{"allTagsPath":"/webredone-wp-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/webredone-wp-docs/blog/tags/facebook"}')}}]);
