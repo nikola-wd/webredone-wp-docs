@@ -26,7 +26,7 @@ title: Tabs
     </button>
     <div class="dropdown-menu">
       <button type="button" class="tab-anchor dropdown-item activeTab" data-href="panel-0">
-        Linear Economy
+         [TAB 1 TOGGLE LABEL]
       </button>
       <button type="button" class="tab-anchor dropdown-item " data-href="panel-1">
         [TAB 2 TOGGLE LABEL]
