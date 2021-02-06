@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/webredone-wp-docs/docs',
-  component: ComponentCreator('/webredone-wp-docs/docs','f6b'),
+  component: ComponentCreator('/webredone-wp-docs/docs','3be'),
   
   routes: [
 {
@@ -108,13 +108,18 @@ export default [
   exact: true,
 },
 {
-  path: '/webredone-wp-docs/docs/doc4',
-  component: ComponentCreator('/webredone-wp-docs/docs/doc4','2b2'),
+  path: '/webredone-wp-docs/docs/mdx',
+  component: ComponentCreator('/webredone-wp-docs/docs/mdx','e1a'),
   exact: true,
 },
 {
-  path: '/webredone-wp-docs/docs/mdx',
-  component: ComponentCreator('/webredone-wp-docs/docs/mdx','e1a'),
+  path: '/webredone-wp-docs/docs/scroll-to-section',
+  component: ComponentCreator('/webredone-wp-docs/docs/scroll-to-section','6f9'),
+  exact: true,
+},
+{
+  path: '/webredone-wp-docs/docs/tabs',
+  component: ComponentCreator('/webredone-wp-docs/docs/tabs','f4a'),
   exact: true,
 },
 ]

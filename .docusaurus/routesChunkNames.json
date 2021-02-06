@@ -110,7 +110,7 @@
     "sidebar": "sidebar---webredone-wp-docs-blog-79-d-fa2",
     "content": "content---webredone-wp-docs-blog-welcomea-9-a-12f"
   },
-  "/webredone-wp-docs/docs-f6b": {
+  "/webredone-wp-docs/docs-3be": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---webredone-wp-docs-docsf-97-5aa"
   },
@@ -126,12 +126,16 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---webredone-wp-docs-docs-doc-3225-dc7"
   },
-  "/webredone-wp-docs/docs/doc4-2b2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---webredone-wp-docs-docs-doc-4-f-97-b09"
-  },
   "/webredone-wp-docs/docs/mdx-e1a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---webredone-wp-docs-docs-mdx-45-a-9b8"
+  },
+  "/webredone-wp-docs/docs/scroll-to-section-6f9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-scroll-to-section-0-da-572"
+  },
+  "/webredone-wp-docs/docs/tabs-f4a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---webredone-wp-docs-docs-doc-47-c-3-3cb"
   }
 }
